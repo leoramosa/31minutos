@@ -6,10 +6,12 @@
   --conden: "Roboto Condensed", sans-serif;
 }
 
-
-
 body {
   font-size: 12px;
+}
+
+#table-price{
+  font-size: 20px !important;
 }
 
 @media screen and (min-width: 992px) {
@@ -542,6 +544,9 @@ h2.h4 span.lower {
 }
 
 @media (min-width: 992px) {
+
+
+
   .contador-general table td {
     max-height: 200px !important;
   }
@@ -568,5 +573,4 @@ h2.h4 span.lower {
   color: #004687 !important;
   font-weight: 600;
 }
-
 

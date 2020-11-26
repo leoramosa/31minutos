@@ -21,6 +21,8 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+
+
 .icon-arrow-left:before {
 	content: "\e910";
 }
@@ -3974,6 +3976,12 @@ body > .jcf-select-drop.jcf-drop-flipped {
 }
 
 @media (max-width: 767.98px) {
+
+	/* style teleticket */
+#table-price{
+	font-size: 24px !important;
+}
+/* end style teleticket */
 	.navbar {
 		padding-left: 15px;
 		padding-right: 15px;
